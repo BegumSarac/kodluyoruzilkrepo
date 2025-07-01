@@ -20,4 +20,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://www.kodluyoruz.org/)
 
-![Lorem Pıcsum Gorsel](https://1drv.ms/i/c/9fe4585f03f1673a/ET0pvNRDP45HmRIUG_11PAIBAbe-YyLv35eiCrcU_mUnMw?e=NCaTKz)
+![Lorem Pıcsum Gorsel](https://miro.medium.com/v2/resize:fit:1100/1*CWFkh5z8oa6dZfn5_gkKKQ.jpeg)
